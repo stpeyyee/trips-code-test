@@ -1,0 +1,12 @@
+{
+  "name": "list-trips",
+  "version": "1.0.0",
+  "description": "List trips",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sathidporn Chancharoen",
+  "license": "ISC"
+}
